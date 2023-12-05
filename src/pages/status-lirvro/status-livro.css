@@ -1,0 +1,53 @@
+.conteudo-status{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+ }
+ .status-container{
+    height: 90%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+
+ align-items: center;
+   
+ }
+ 
+
+
+
+ .faq-satus-font{
+   font-size: 1rem;
+ }
+
+ 
+ .status-container{
+    gap: 2rem;
+}
+
+.disponibilidade{
+    font-size: 1.3rem;
+    margin-top: -3rem;
+}
+  
+
+.logo{
+    margin-top: -2rem;
+}
+
+.btn-reserva {
+  font-size: 1rem;
+ background-color: rgba(255, 255, 255, 0.13);
+ border: 1px solid white;
+ border-radius: 0.3rem;
+ height: 10vh;
+ width: 30vw;
+}
+
+.btn-reserva:hover{
+  scale: 1.1;
+  transition: 1s;
+}
+
